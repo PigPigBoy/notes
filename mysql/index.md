@@ -24,7 +24,8 @@ Full-Text|>=5.6|√|×
 ## B-Tree索引
 - [B-树](/data-structure/BTree.md) [见数据结构专题]
 - 在Mysql中，对B+Tree进行了优化，即`叶子节点之间增加了指针`。可以称之为`带顺序指针的B+树`。增加指针的主要目的就是便于范围搜索，`提高区间访问的性能`。如图，我想查找9~15之间的数据
-- ![](../others/pictures/B+Tree_Mysql.jpg)
+
+![](/others/pictures/B+Tree_Mysql.jpg)
 
 ## 索引分类
 - 单值索引

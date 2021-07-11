@@ -14,12 +14,13 @@
 ```
 
 - 作用：记录一系列操作的耗时
-![](/mysql/show_profiles.jpg)
+
+![](/others/pictures/show_profiles.jpg)
 
 ```sql
     show profile [可选参数] for query 5
 ```
-![](/mysql/show_profile.jpg)
+![](/others/pictures/show_profile.jpg)
 
 - Sending data
   - mysql线程开始访问数据行到返回数据到客户端的过程
@@ -30,4 +31,4 @@
     show profile cpu for query 5
 ```
 
-![](/mysql/show_profile_cpu.jpg)
+![](/others/pictures/show_profile_cpu.jpg)

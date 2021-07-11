@@ -1,7 +1,7 @@
 # 体系结构
 
 ## 1、图解
-![mysql体系结构](/mysql/system-structure.jpg)
+![mysql体系结构](/others/pictures/system-structure.jpg)
 
 - connectors
   - 客户端连接

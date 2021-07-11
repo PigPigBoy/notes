@@ -161,4 +161,4 @@
 - 全局索引使用情况：`show global status like 'Handler_read%'`
 - 每个参数具体什么意思，了解即可
 
-![](/mysql/handler_read.jpg)
+![](/others/pictures/handler_read.jpg)
