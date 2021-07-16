@@ -110,7 +110,7 @@ BDB|✔|✖|✔
     - Innodb_row_lock_waits：系统启动后，到现在，总共等待的次数
     - 当`等待次数`很高，`等待时间`也很长，就需要进行分析优化 
 
-![](/mysql/innodb_row_lock.jpg)
+![](/others/pictures/innodb_row_lock.jpg)
 
 - 总结
   - InnoDB默认支持行锁

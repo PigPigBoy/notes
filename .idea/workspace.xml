@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aab89899-5f6d-496f-877b-74fb0c6bc075" name="Default Changelist" comment="" />
+    <list default="true" id="aab89899-5f6d-496f-877b-74fb0c6bc075" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mysql/innodb_row_lock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/others/pictures/innodb_row_lock.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/lock.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1uqwaa6IC6IFSXIEPZhECbTFimm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +38,7 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,6 +49,24 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\notes\others\pictures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +76,47 @@
       <option name="presentableId" value="Default" />
       <updated>1625406490997</updated>
       <workItem from="1625406492395" duration="270000" />
+      <workItem from="1625417145391" duration="55000" />
+      <workItem from="1625843808557" duration="45000" />
+      <workItem from="1625843932951" duration="601000" />
+      <workItem from="1625970430866" duration="320000" />
+      <workItem from="1626017924960" duration="54000" />
+      <workItem from="1626360747006" duration="778000" />
     </task>
+    <task id="LOCAL-00001" summary="mysql学习">
+      <created>1625843838247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625843838247</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mysql学习">
+      <created>1625970603745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625970603745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mysql学习">
+      <created>1626017966954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626017966954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mysql学习">
+      <created>1626360805075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626360805075</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="mysql学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="mysql学习" />
   </component>
 </project>
